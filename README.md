@@ -6,3 +6,11 @@ A Python program that checks whether a password is strong or weak based on:
 - Lowercase letters
 - Digits
 - Special characters
+
+Example
+
+Input:
+Password@123
+
+Output:
+Very Strong Password
